@@ -21,5 +21,3 @@ Most analyses stop at positive vs negative. This study shows how emotions like t
 - Overall tone stays positive and stable at the corpus level
 - Cluster-level views reveal meaningful shifts, such as rising anticipation and frustration in support-related reviews
 - TF-IDF highlights changing emotional vocabulary between early (2010–2013) and late (2015–2017) periods
-
-## Repo structure
